@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Breadboard](https://www.jaycar.co.nz/arduino-compatible-breadboard-with-400-tie-points/p/PB8820?srsltid=AU7gw4W2Tx0DAkpgecxwIbcvKPoOdmJJEuwszuDsoENZU-L1KgVCdRtLNlk) | To connect everything and to use as a base | 1 | $12.90 | $12.90 | [Jaycar NZ](https://www.jaycar.co.nz/arduino-compatible-breadboard-with-400-tie-points/p/PB8820?srsltid=AU7gw4W2Tx0DAkpgecxwIbcvKPoOdmJJEuwszuDsoENZU-L1KgVCdRtLNlk) |
 | [Passive components](https://www.jaycar.co.nz/1n5819-schottky-diode-40v-1a-do41/p/ZR1020) | For the tone and to connect every component | 1 | $17.00 | $17.00 | [Jaycar NZ](https://www.jaycar.co.nz/1n5819-schottky-diode-40v-1a-do41/p/ZR1020) |
-| **Parts subtotal** | — | — | — | **$29.90** | — |
+| **Parts subtotal** | — | — | — | **$17.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$29.90** | — |
+| **Total** | — | — | — | **$17.00** | — |
 
-$0.10 left of the tier's funding.
+$13.00 left of the tier's funding.
