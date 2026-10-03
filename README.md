@@ -466,3 +466,7 @@ The current file made on 3rd of October 2026, can only be used in LIVESPICE
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-65,-90" B="-35,-90" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-35,-90" B="-20,-90" />
 </Schematic>
+
+New Build with 2 more gain or distortion options and a new option for bypass
+<img width="1300" height="895" alt="Screenshot 2026-10-03 152819" src="https://github.com/user-attachments/assets/f2a7d4f1-3770-41e3-b759-54c73995fbaf" />
+
