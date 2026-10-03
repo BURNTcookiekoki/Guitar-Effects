@@ -6,7 +6,10 @@ First design on Distortion pedal based off this youtube Video https://www.youtub
  schematic I have made for this pedal<img width="3301" height="2550" alt="Boss DS1 Mod(distortion change) (1) (1)-2" src="https://github.com/user-attachments/assets/a2f3289d-b511-48d0-93cb-f071dc29c8b1" />
 <img width="3301" height="2550" alt="Boss DS1 Mod(distortion change) (1) (1)-1" src="https://github.com/user-attachments/assets/1e4d4691-24bb-4350-9463-065353095ba1" />
 
-Part list so far[bom (1).csv](https://github.com/user-attachments/files/32946430/bom.1.csv)
+Part list so far  
+
+[bom (1).csv](https://github.com/user-attachments/files/32946430/bom.1.csv)
+
 Name,Quantity,Component
 "3, 4, 5",3," Breadboard Small"
 "BAT1",1," 9V Battery"
