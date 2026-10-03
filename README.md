@@ -470,3 +470,7 @@ The current file made on 3rd of October 2026, can only be used in LIVESPICE
 New Build with 2 more gain or distortion options and a new option for bypass
 <img width="1300" height="895" alt="Screenshot 2026-10-03 152819" src="https://github.com/user-attachments/assets/f2a7d4f1-3770-41e3-b759-54c73995fbaf" />
 
+Final designs Schematic and breadboard
+
+<img width="992" height="547" alt="Screenshot 2026-10-03 183823" src="https://github.com/user-attachments/assets/e0cd86e0-82c8-43ed-a083-b20723645dad" />
+<img width="1259" height="908" alt="Screenshot 2026-10-03 134459" src="https://github.com/user-attachments/assets/100f5a27-2995-4f67-9a02-27b938c649bc" />
