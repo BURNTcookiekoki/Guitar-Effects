@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Breadboard 10x60](https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815) | connection | 1 | $26.90 | $26.90 | [Jaycar NZ](https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815) |
 | **Parts subtotal** | — | — | — | **$26.90** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.90** | — |
+| **Tax & shipping** | — | — | — | **$3.10** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$3.10 left of the tier's funding.
+$0.00 left of the tier's funding.
