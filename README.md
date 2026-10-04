@@ -17,13 +17,13 @@ This PDF is the wiring schematic I created on Tinkercad because both Fusion and 
 [Final.csv.csv](https://github.com/user-attachments/files/33019870/Final.csv.csv)
 Component,Qty,Supplier,Part / Link,Unit Price NZD
 
-830-point breadboard,2,Jaycar,PB8815 - https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815,26.9,53.8
+830-point breadboard,2,Jaycar,PB8815 - https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815
 
-9V alkaline battery,1,Jaycar,SB2423 - https://www.jaycar.co.nz/eclipse-9v-alkaline-battery/p/SB2423,8.9,8.9
+9V alkaline battery,1,Jaycar,SB2423 - https://www.jaycar.co.nz/eclipse-9v-alkaline-battery/p/SB2423
 
 "10kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0596 - https://www.jaycar.co.nz/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596
 
-"1kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0572 - https://www.jaycar.co.nz/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572,1.0,1.0
+"1kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0572 - https://www.jaycar.co.nz/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572
 
 "100kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0620,1.0,1.0
 
