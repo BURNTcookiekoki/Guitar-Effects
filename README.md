@@ -1,4 +1,4 @@
-Guitar Pedal - Modded Boss DS1
+[Final2.csv](https://github.com/user-attachments/files/33020397/Final2.csv)Guitar Pedal - Modded Boss DS1
 
 <img width="1875" height="861" alt="Breadboard1" src="https://github.com/user-attachments/assets/3650e3c4-3ee3-4144-884b-c3885b83b4b6" />
 
@@ -14,8 +14,7 @@ This is the image of my 3d model case which is open as I want it to be modular o
 [Boss DS1 (1).pdf](https://github.com/user-attachments/files/33019150/Boss.DS1.1.pdf)
 This PDF is the wiring schematic I created on Tinkercad because both Fusion and Livespice is hard to look at.
 
-[Final.csv.csv](https://github.com/user-attachments/files/33019870/Final.csv.csv)
-Component,Qty,Supplier,Part / Link,Unit Price NZD
+[Uploading Final2.csv…](Component,Qty,Supplier,Part / Link,
 
 830-point breadboard,2,Jaycar,PB8815 - https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815
 
