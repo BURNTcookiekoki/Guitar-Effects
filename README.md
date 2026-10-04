@@ -16,7 +16,8 @@ This PDF is the wiring schematic I created on Tinkercad because both Fusion and 
 
 [bom final.csv](https://github.com/user-attachments/files/33019296/bom.final.csv)
 Name,Quantity,Component
-"1, 2",2," Breadboard"
+
+"1, 2",2," Breadboard" https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815?utm
 
 "BAT1",1," 9V Battery"
 "Rmain1, Rmain2, R5, R6, R13, R24, R26",7,"10 kΩ Resistor"
