@@ -21,7 +21,7 @@ Component,Qty,Supplier,Part / Link,Unit Price NZD
 
 9V alkaline battery,1,Jaycar,SB2423 - https://www.jaycar.co.nz/eclipse-9v-alkaline-battery/p/SB2423,8.9,8.9
 
-"10kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0596 - https://www.jaycar.co.nz/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596,1.0,1.0
+"10kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0596 - https://www.jaycar.co.nz/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596
 
 "1kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0572 - https://www.jaycar.co.nz/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572,1.0,1.0
 
