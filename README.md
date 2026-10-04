@@ -14,37 +14,39 @@ This is the image of my 3d model case which is open as I want it to be modular o
 [Boss DS1 (1).pdf](https://github.com/user-attachments/files/33019150/Boss.DS1.1.pdf)
 This PDF is the wiring schematic I created on Tinkercad because both Fusion and Livespice is hard to look at.
 
-[bom final.csv](https://github.com/user-attachments/files/33019296/bom.final.csv)
-Name,Quantity,Component
-
-"1, 2",2," Breadboard" https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815?utm
-
-"BAT1",1," 9V Battery"
-"Rmain1, Rmain2, R5, R6, R13, R24, R26",7,"10 kΩ Resistor"
-"Cmain9",1,"47 uF Capacitor"
-"S1, S2, S3, S4, S5, S6, S7",7," Slideswitch"
-"R1, R2, R11, R16, R27",5,"1 kΩ Resistor"
-"C1, C3, C13",3,"47 nF Capacitor"
-"T1, T2, T3",3," NPN Transistor (BJT)"
-"C2, C6, C8",3,"470 nF Capacitor"
-"R3, R4, R8, R14, R15, R25, R28",7,"100 kΩ Resistor"
-"C4",1,"250 pF Capacitor"
-"R7",1,"470 kΩ Resistor"
-"C5",1,"65 nF Capacitor"
-"R9",1,"47 kΩ Resistor"
-"R10",1,"22 Ω Resistor"
-"R12, R19",2,"3.3 kΩ Resistor"
-"D1, D2, D3",3," Diode"
-"U1, U2",2," 741 Operational Amplifier"
-"C7",1,"100 pF Capacitor"
-"Rpot1, Rpot4",2,"100 kΩ Potentiometer"
-"R17",1,"1.5 kΩ Resistor"
-"R18, R21",2,"2.2 kΩ Resistor"
-"R20",1,"4.7 kΩ Resistor"
-"C9",1,"10 nF Capacitor"
-"C10",1,"22 nF Capacitor"
-"Rpot2",1,"20 kΩ Potentiometer"
-"R22, R23",2,"6.8 kΩ Resistor"
-"C11",1,"100 nF Capacitor"
-"C14",1,"1 uF Capacitor"
-"Input",2,"6.35mm mono input"
+[Final.csv.csv](https://github.com/user-attachments/files/33019870/Final.csv.csv)
+Component,Qty,Supplier,Part / Link,Unit Price NZD,Subtotal NZD
+830-point breadboard,2,Jaycar,PB8815 - https://www.jaycar.co.nz/arduino-compatible-breadboard-with-830-tie-points/p/PB8815,26.9,53.8
+9V alkaline battery,1,Jaycar,SB2423 - https://www.jaycar.co.nz/eclipse-9v-alkaline-battery/p/SB2423,8.9,8.9
+"10kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0596 - https://www.jaycar.co.nz/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596,1.0,1.0
+"1kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0572 - https://www.jaycar.co.nz/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572,1.0,1.0
+"100kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0620,1.0,1.0
+"470kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0636,1.0,1.0
+"47kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0612,1.0,1.0
+"22Ω resistor, 0.5W, 8-pack",1,Jaycar,RR0532,1.0,1.0
+"3.3kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0584,1.0,1.0
+"1.5kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0576,1.0,1.0
+"2.2kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0580,1.0,1.0
+"4.7kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0588,1.0,1.0
+"6.8kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0592,1.0,1.0
+47µF capacitor,1,Jaycar,RE6332,0.5,0.5
+47nF capacitor,3,Jaycar,RG5105,0.4,1.2
+470nF capacitor,3,Jaycar,RG5165,0.5,1.5
+250pF capacitor,1,AliExpress,"Exact 250pF through-hole ceramic, ~https://www.aliexpress.com/w/wholesale-250pf-capacitor.html",1.0,1.0
+65nF capacitor,1,AliExpress,"Exact 65nF through-hole film, ~https://www.aliexpress.com/w/wholesale-65nf-capacitor.html",1.0,1.0
+100pF capacitor,1,Jaycar,RC5324,0.5,0.5
+10nF capacitor,1,Jaycar,RM7065,0.4,0.4
+22nF capacitor,1,Jaycar,RG5085,0.4,0.4
+100nF capacitor,1,Jaycar,RG5125,0.4,0.4
+1µF capacitor,1,Jaycar,RC5499,0.9,0.9
+BC547 NPN transistor,3,Jaycar,ZT2152,0.4,1.2
+LM741 op-amp,2,Jaycar,ZL3741,2.3,4.6
+"1N4148/1N914 diode, 5-pack",1,Jaycar,ZR1100,1.1,1.1
+100kΩ linear potentiometer,2,Jaycar,RP3518,4.6,9.2
+20kΩ linear potentiometer,1,AliExpress,"B20K linear, ~https://www.aliexpress.com/w/wholesale-20k-potentiometer.html",1.5,1.5
+3-position rotary switch,1,Jaycar,SR1216,5.9,5.9
+4-position rotary switch,2,Jaycar,SR1214,5.9,11.8
+Female 1/4in / 6.35mm mono chassis socket,2,Jaycar,PS0162,2.4,4.8
+TOTAL PARTS,,,,,121.6
+SHIPPING,,,,,15.0
+ESTIMATED GRAND TOTAL,,,,,136.6
