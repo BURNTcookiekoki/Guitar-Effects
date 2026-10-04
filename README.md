@@ -46,7 +46,7 @@ This PDF is the wiring schematic I created on Tinkercad because both Fusion and 
 
 47nF capacitor,3,Jaycar,RG5105 - https://www.jaycar.co.nz/47nf-100vdc-polyester-capacitor/p/RG5105
 
-470nF capacitor,3,Jaycar,RG5165 - https://www.jaycar.co.nz/470nf-100vdc-polyester-capacitor/p/RG5165
+470nF capacitor,3,Jaycar,RG5165 - https://www.jaycar.co.nz/470nf-35vdc-tantalum-capacitor/p/RZ6626
 
 250pF capacitor,1,AliExpress,250pF, https://www.aliexpress.com/item/1005010509208757.html?spm=a2g0o.productlist.main.1.bf18375fXwSrMq&algo_pvid=db7b0b3b-ae20-460f-9bba-c3adbb7b3e63&algo_exp_id=db7b0b3b-ae20-460f-9bba-c3adbb7b3e63-0&pdp_ext_f=%7B"order"%3A"11"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21NZD%2111.78%2111.19%21%21%2143.36%2141.19%21%402101d2e717910968870695546e0e7e%2112000052639323740%21sea%21NZ%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Abebf9545%3Bm03_new_user%3A-29895&curPageLogUid=UDYDKjHd2Bku&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010509208757%7C_p_origin_prod%3A
 
