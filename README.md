@@ -25,56 +25,54 @@ Component,Qty,Supplier,Part / Link,Unit Price NZD
 
 "1kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0572 - https://www.jaycar.co.nz/1k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0572
 
-"100kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0620,1.0,1.0
+"100kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0620 - https://www.jaycar.co.nz/100k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0620
 
-"470kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0636,1.0,1.0
+"470kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0636 - https://www.jaycar.co.nz/470k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0636
 
-"47kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0612,1.0,1.0
+"47kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0612 - https://www.jaycar.co.nz/47k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0612
 
-"22Ω resistor, 0.5W, 8-pack",1,Jaycar,RR0532,1.0,1.0
+"22Ω resistor, 0.5W, 8-pack",1,Jaycar,RR0532 - https://www.jaycar.co.nz/22-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0532
 
-"3.3kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0584,1.0,1.0
+"3.3kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0584 - https://www.jaycar.co.nz/3-3k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0584
 
-"1.5kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0576,1.0,1.0
+"1.5kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0576 - https://www.jaycar.co.nz/1-5k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0576
 
-"2.2kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0580,1.0,1.0
+"2.2kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0580 - https://www.jaycar.co.nz/2-2k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0580
 
-"4.7kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0588,1.0,1.0
+"4.7kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0588 - https://www.jaycar.co.nz/4-7k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0588
 
-"6.8kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0592,1.0,1.0
+"6.8kΩ resistor, 0.5W, 8-pack",1,Jaycar,RR0592 - https://www.jaycar.co.nz/6-8k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0592
 
-47µF capacitor,1,Jaycar,RE6332,0.5,0.5
+47µF capacitor,1,Jaycar,RE6332 - https://www.jaycar.co.nz/47uf-35vdc-low-esr-electrolytic-capacitor/p/RE6332
 
-47nF capacitor,3,Jaycar,RG5105,0.4,1.2
+47nF capacitor,3,Jaycar,RG5105 - https://www.jaycar.co.nz/47nf-100vdc-polyester-capacitor/p/RG5105
 
-470nF capacitor,3,Jaycar,RG5165,0.5,1.5
+470nF capacitor,3,Jaycar,RG5165 - https://www.jaycar.co.nz/470nf-100vdc-polyester-capacitor/p/RG5165
 
-250pF capacitor,1,AliExpress,"Exact 250pF through-hole ceramic, ~https://www.aliexpress.com/w/wholesale-250pf-capacitor.html",1.0,1.0
+250pF capacitor,1,AliExpress,250pF, https://www.aliexpress.com/item/1005010509208757.html?spm=a2g0o.productlist.main.1.bf18375fXwSrMq&algo_pvid=db7b0b3b-ae20-460f-9bba-c3adbb7b3e63&algo_exp_id=db7b0b3b-ae20-460f-9bba-c3adbb7b3e63-0&pdp_ext_f=%7B"order"%3A"11"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21NZD%2111.78%2111.19%21%21%2143.36%2141.19%21%402101d2e717910968870695546e0e7e%2112000052639323740%21sea%21NZ%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Abebf9545%3Bm03_new_user%3A-29895&curPageLogUid=UDYDKjHd2Bku&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010509208757%7C_p_origin_prod%3A
 
-65nF capacitor,1,AliExpress,"Exact 65nF through-hole film, ~https://www.aliexpress.com/w/wholesale-65nf-capacitor.html",1.0,1.0
+65nF capacitor,1,Jaycar, - https://www.jaycar.co.nz/68nf-100vdc-polyester-capacitor/p/RG5115
 
-100pF capacitor,1,Jaycar,RC5324,0.5,0.5
+100pF capacitor,1,Jaycar,RC5324 - https://www.jaycar.co.nz/100pf-50vdc-ceramic-capacitors-pack-of-2/p/RC5324
 
-10nF capacitor,1,Jaycar,RM7065,0.4,0.4
+10nF capacitor,1,Jaycar,RM7065 - https://www.jaycar.co.nz/10nf-100vdc-mkt-polyester-capacitor/p/RM7065
 
-22nF capacitor,1,Jaycar,RG5085,0.4,0.4
+22nF capacitor,1,Jaycar,RG5085 - https://www.jaycar.co.nz/22nf-100vdc-polyester-capacitor/p/RG5085
 
-100nF capacitor,1,Jaycar,RG5125,0.4,0.4
+100nF capacitor,1,Jaycar,RG5125 - https://www.jaycar.co.nz/100nf-100vdc-polyester-capacitor/p/RG5125
 
-1µF capacitor,1,Jaycar,RC5499,0.9,0.9
+1µF capacitor,1,Jaycar,RC5499 - https://www.jaycar.co.nz/1uf-50vdc-monolithic-capacitor/p/RC5499
 
-BC547 NPN transistor,3,Jaycar,ZT2152,0.4,1.2
+BC547 NPN transistor,3,Jaycar,ZT2152 - https://www.jaycar.co.nz/bc547-npn-transistor/p/ZT2152
 
-LM741 op-amp,2,Jaycar,ZL3741,2.3,4.6
+LM741 op-amp,2,Jaycar,ZL3741 - https://www.jaycar.co.nz/lm741-general-purpose-op-amp-linear-ic/p/ZL3741
 
-"1N4148/1N914 diode, 5-pack",1,Jaycar,ZR1100,1.1,1.1
+"1N4148/1N914 diode, 5-pack",1,Jaycar,ZR1100 - https://www.jaycar.co.nz/1n4148-1n914-signal-diode-pack-of-5/p/ZR1100
 
-100kΩ linear potentiometer,2,Jaycar,RP3518,4.6,9.2
+100kΩ linear potentiometer,2,Jaycar,RP3518 - https://www.jaycar.co.nz/100k-ohm-linear-b-single-gang-24mm-potentiometer/p/RP3518
 
-20kΩ linear potentiometer,1,AliExpress,"B20K linear, ~https://www.aliexpress.com/w/wholesale-20k-potentiometer.html",1.5,1.5
+20kΩ linear potentiometer,1,AliExpress,"B20K linear - https://www.aliexpress.com/item/1005012540659162.html
 
-3-position rotary switch,1,Jaycar,SR1216,5.9,5.9
+DPDT,7,Jaycar,SS0821  - https://www.jaycar.co.nz/miniature-dpdt-panel-mount-switch/p/SS0821
 
-4-position rotary switch,2,Jaycar,SR1214,5.9,11.8
-
-Female 1/4in / 6.35mm mono chassis socket,2,Jaycar,PS0162,2.4,4.8
+Female 1/4in / 6.35mm mono chassis socket,2,Jaycar,PS0162 - https://www.jaycar.co.nz/6-5mm-mono-chassis-socket-unswitched/p/PS0162
