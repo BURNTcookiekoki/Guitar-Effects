@@ -45,3 +45,4 @@ Name,Quantity,Component
 "R22, R23",2,"6.8 kΩ Resistor"
 "C11",1,"100 nF Capacitor"
 "C14",1,"1 uF Capacitor"
+"Input",2,"6.35mm mono input"
